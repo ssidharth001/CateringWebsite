@@ -173,7 +173,14 @@ h2 {
 h4 {
     font-weight: normal;
     text-align: center;
+    
+}
+
+h6 {
+    font-weight: normal;
+    text-align: center;
     font-size: 7px;
+    
 }
 
 .horizontal-line {
@@ -183,7 +190,7 @@ h4 {
 }
 
 footer {
-    padding: 15px;
+    padding: 13px;
     background-color:#e6e3e3;
 }
 
@@ -209,4 +216,7 @@ footer {
     font-size: 7px;
 }
 
+.sub-para-main {
+    color: grey;
+}
 
