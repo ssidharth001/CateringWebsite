@@ -15,7 +15,7 @@ header{
     overflow: hidden;
     width: 100%;   
     background-color:#ffffff;
-    box-shadow: 2px 3px 2px 0px rgba(50, 50, 50, 0.5);
+    box-shadow: 2px 2px 2px 0px rgba(50, 50, 50, 0.5);
 }
 
 nav ul {
@@ -31,7 +31,7 @@ nav li {
 nav a {
     display: block;
     padding: 10px 10px;
-    color: black;
+    color: #000000;
     text-decoration: none;
     padding-left: 15px;
     font-size: 9px;
@@ -120,8 +120,8 @@ form {
     background:transparent;
     border: none;
     outline: none;
-    border-bottom: 1px solid grey;
-    color: black;
+    border-bottom: 1px solid #808080 ;
+    color: #000000;
     font-size: 9px;
     opacity: 60%;
     margin-bottom: 16px;
@@ -132,7 +132,7 @@ form {
 form .submit {
     background: #f1f1f1c9;
     border-color: transparent;
-    color: black;
+    color: #000000;
     padding: 4px;
     font-size: 8px;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -212,11 +212,14 @@ footer {
 }
 
 .sub-para {
-    color: grey;
+    color:#808080;
     font-size: 7px;
 }
 
 .sub-para-main {
-    color: grey;
+    color: #808080;
 }
 
+.border-word{
+    background-color: #80808029;
+}
