@@ -1,7 +1,7 @@
 body {
   padding: 0;
   margin: 0;
-  font-size: 9.2px;
+  font-size: 12px;
   letter-spacing: 0.5px;
   font-family: Georgia, "Times New Roman", Times, serif;
   line-height: 1.6;
@@ -60,7 +60,7 @@ nav a {
   color: #000000;
   text-decoration: none;
   padding-left: 15px;
-  font-size: 9px;
+  font-size: 16px;
   letter-spacing: 2px;
 }
 
@@ -136,21 +136,21 @@ nav li a:hover {
 }
 
 .under-heading {
-  font-size: 10px;
+  font-size: 14px;
   letter-spacing: 3px;
   padding-top: 12px;
   text-align: center;
   padding-bottom: 3px;
 }
 .heading-sub {
-  font-size: 10px;
+  font-size: 14px;
   letter-spacing: 3.5px;
   padding-top: 14px;
 }
 
 .sub-para {
   color: #808080;
-  font-size: 7px;
+  font-size: 12px;
 }
 
 .sub-para-main {
@@ -192,14 +192,14 @@ form .submit {
 }
 
 .contact-sub {
-  font-size: 9px;
+  font-size: 12px;
   letter-spacing: 0;
   padding-top: 10px;
   padding-bottom: 10px;
 }
 
 .contact-sub-mid {
-  font-size: 10px;
+  font-size: 12px;
   font-weight: bold;
   color: #719fc0;
   letter-spacing: -0.4px;
