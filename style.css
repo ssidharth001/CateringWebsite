@@ -27,7 +27,8 @@ h4 {
   text-align: center;
 }
 
-h6 {
+h6,
+.footer-bottom {
   font-weight: normal;
   text-align: center;
   font-size: 7px;
